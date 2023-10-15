@@ -26,26 +26,6 @@ hr {
 img {
   max-width: 100%;
 }
-
 .test {
-  color: #326dee;
-}
-
-.card {
-  display: block;
-  padding: 0.75rem;
-  border: 1px solid #ddd;
-  box-shadow: 1px 3px 5px rgb(0, 0, 0);
-  border-radius: 5px;
-}
-.card .card-title {
-  font-size: 1rem;
-  padding-bottom: 0.75rem;
-  font-weight: bold;
-}
-.card .card-body {
-  font-size: 1rem;
-}
-.card .card-body a {
-  text-decoration: underline;
+  color: $primary;
 }
